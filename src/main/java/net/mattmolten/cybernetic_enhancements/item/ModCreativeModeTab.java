@@ -7,7 +7,7 @@ public class ModCreativeModeTab {
     public static final CreativeModeTab CYBERNETIC_ENHANCEMENTS_TAB = new CreativeModeTab("Cybernetic Enhancements") {
         @Override
         public ItemStack makeIcon() {
-            return new ItemStack(ModItems.ZIRCON.get());
+            return new ItemStack(ModItems.NIGHT_VISION_LENS.get());
         }
     };
 }

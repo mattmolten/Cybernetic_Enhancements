@@ -1,4 +1,6 @@
 {
-  "item.cybernetic_enhancements.zircon" : "Zircon",
-  "itemGroup.Cybernetic Enhancements" : "Cybernetic Enhancements"
+  "item.cybernetic_enhancements.zircon": "Zircon",
+  "itemGroup.Cybernetic Enhancements": "Cybernetic Enhancements",
+  "item.cybernetic_enhancements.night_vision_lens": "Night Vision Lens",
+  "block.cybernetic_enhancements": "Cybernetics Work Bench"
 }
